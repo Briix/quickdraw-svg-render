@@ -1,12 +1,13 @@
 {
   "name": "quickdraw-svg-render",
   "version": "1.0.0",
-  "description": "",
+  "description": "Small module for rendering Google Quickdraw drawings as svg",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "google",
+    "quickdraw",
+    "svg"
+  ],
+  "author": "Simon Brix",
+  "license": "MIT"
 }
